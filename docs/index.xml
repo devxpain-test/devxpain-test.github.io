@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperModX Docs on PaperModX</title>
-    <link>https://reorx.github.io/hugo-PaperModX/docs/</link>
+    <link>https://devxpain-test.github.io/docs/</link>
     <description>Recent content in PaperModX Docs on PaperModX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://reorx.github.io/hugo-PaperModX/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://devxpain-test.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperModX New Features</title>
-      <link>https://reorx.github.io/hugo-PaperModX/docs/papermodx-new-features/</link>
+      <link>https://devxpain-test.github.io/docs/papermodx-new-features/</link>
       <pubDate>Tue, 12 Apr 2022 23:37:00 +0800</pubDate>
       
-      <guid>https://reorx.github.io/hugo-PaperModX/docs/papermodx-new-features/</guid>
+      <guid>https://devxpain-test.github.io/docs/papermodx-new-features/</guid>
       <description>This page explains the new features and changes of PaperModX comparing to the original PaperMod.</description>
       <content:encoded><![CDATA[<p>This page explains the new features and changes of PaperModX
 comparing to the original PaperMod.</p>
@@ -99,23 +99,23 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
     
     <item>
       <title>Icons Preview</title>
-      <link>https://reorx.github.io/hugo-PaperModX/docs/icons_preview/</link>
+      <link>https://devxpain-test.github.io/docs/icons_preview/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/hugo-PaperModX/docs/icons_preview/</guid>
+      <guid>https://devxpain-test.github.io/docs/icons_preview/</guid>
       <description>Index of all icons in PaperModeX</description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>https://reorx.github.io/hugo-PaperModX/docs/icons/</link>
+      <link>https://devxpain-test.github.io/docs/icons/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/hugo-PaperModX/docs/icons/</guid>
+      <guid>https://devxpain-test.github.io/docs/icons/</guid>
       <description>Explain how to use icons in PaperModX</description>
       <content:encoded><![CDATA[<h2 id="social-icons">Social Icons</h2>
-<p>Go to <a href="/hugo-PaperModX/docs/icons_preview/">Icons Preview</a> to see a complete list of icons</p>
+<p>Go to <a href="/docs/icons_preview/">Icons Preview</a> to see a complete list of icons</p>
 <p>Usage :</p>
 <pre tabindex="0"><code>socialIcons:
     - name: &#34;kofi&#34;
@@ -166,10 +166,10 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
     
     <item>
       <title>Installation | Update</title>
-      <link>https://reorx.github.io/hugo-PaperModX/docs/installation/</link>
+      <link>https://devxpain-test.github.io/docs/installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/hugo-PaperModX/docs/installation/</guid>
+      <guid>https://devxpain-test.github.io/docs/installation/</guid>
       <description>Read Install and Update instructions here</description>
       <content:encoded><![CDATA[<h2 id="intro">Intro</h2>
 <ul>
@@ -438,10 +438,10 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
     
     <item>
       <title>PaperMod Features</title>
-      <link>https://reorx.github.io/hugo-PaperModX/docs/features/</link>
+      <link>https://devxpain-test.github.io/docs/features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/hugo-PaperModX/docs/features/</guid>
+      <guid>https://devxpain-test.github.io/docs/features/</guid>
       <description>Learn About All Features in original PaperMod</description>
       <content:encoded><![CDATA[<blockquote>
 <p>source: <a href="https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/">https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/</a></p>
@@ -552,10 +552,10 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
 </span></span></span></code></pre></div><p><strong>Note:</strong> Archives Layout does not support Multilingual Month Translations.</p>
 <hr>
 <h3 id="regular-mode-default-mode">Regular Mode (default-mode)</h3>
-<p><img loading="lazy" src="/hugo-PaperModX/docs/features/images/regular.jpg" type="" alt="regular"  /></p>
+<p><img loading="lazy" src="/docs/features/images/regular.jpg" type="" alt="regular"  /></p>
 <hr>
 <h3 id="home-info-mode">Home-Info Mode</h3>
-<p><img loading="lazy" src="/hugo-PaperModX/docs/features/images/homeinfo.jpg" type="" alt="homeinfo"  /></p>
+<p><img loading="lazy" src="/docs/features/images/homeinfo.jpg" type="" alt="homeinfo"  /></p>
 <p>Use 1st entry as some Information</p>
 <p>add following to config file</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">params</span><span class="p">:</span><span class="w">
@@ -570,7 +570,7 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
 </span></span></span><span class="line"><span class="cl"><span class="w">          </span><span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;&lt;link2&gt;&#34;</span><span class="w">
 </span></span></span></code></pre></div><hr>
 <h3 id="profile-mode">Profile Mode</h3>
-<p><img loading="lazy" src="/hugo-PaperModX/docs/features/images/profile.jpg" type="" alt="profile"  /></p>
+<p><img loading="lazy" src="/docs/features/images/profile.jpg" type="" alt="profile"  /></p>
 <p>Shows Index/Home page as Full Page with Social Links and Image</p>
 <p>add following to config file</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nt">params</span><span class="p">:</span><span class="w">
@@ -773,7 +773,7 @@ also use other URL schemas like <code>mailto://</code>, e.g.
 <li>The Twitter Cards metadata, except <code>twitter:image</code> should not require
 additional configuration, since it is generated from metadata that
 you should already have (for instance the page title and description).</li>
-<li>The <code>twitter:image</code> uses the <a href="/hugo-PaperModX/docs/features/#post-cover-image">Post Cover Image</a>, if present.</li>
+<li>The <code>twitter:image</code> uses the <a href="/docs/features/#post-cover-image">Post Cover Image</a>, if present.</li>
 <li>In the absence of a cover images, the first image from the <code>images</code>
 frontmatter (a list) is used.
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">images</span><span class="p">:</span><span class="w">
@@ -790,7 +790,7 @@ image with <code>feature</code> in the name, with a fallback to the first image 
 <li>The OpenGraph metadata, except <code>og:image</code> should not require
 additional configuration, since it is generated from metadata that
 you should already have (for instance the page title and description).</li>
-<li>The <code>og:image</code> uses the <a href="/hugo-PaperModX/docs/features/#post-cover-image">Post Cover Image</a>, if present.</li>
+<li>The <code>og:image</code> uses the <a href="/docs/features/#post-cover-image">Post Cover Image</a>, if present.</li>
 <li>In the absence of a cover images, the first image from the <code>images</code>
 frontmatter (a list) is used.
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">images</span><span class="p">:</span><span class="w">
@@ -824,10 +824,10 @@ videos.
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://reorx.github.io/hugo-PaperModX/docs/math-typesetting/</link>
+      <link>https://devxpain-test.github.io/docs/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/hugo-PaperModX/docs/math-typesetting/</guid>
+      <guid>https://devxpain-test.github.io/docs/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
       <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
 <p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
@@ -869,10 +869,10 @@ $$</p>]]></content:encoded>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://reorx.github.io/hugo-PaperModX/docs/emoji-support/</link>
+      <link>https://devxpain-test.github.io/docs/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/hugo-PaperModX/docs/emoji-support/</guid>
+      <guid>https://devxpain-test.github.io/docs/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
