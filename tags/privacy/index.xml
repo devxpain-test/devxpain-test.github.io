@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Privacy on PaperModX</title>
-    <link>https://devxpain-test.github.io/tags/privacy/</link>
+    <link>https://reorx.github.io/hugo-PaperModX/tags/privacy/</link>
     <description>Recent content in Privacy on PaperModX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://devxpain-test.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://reorx.github.io/hugo-PaperModX/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content</title>
-      <link>https://devxpain-test.github.io/posts/rich-content/</link>
+      <link>https://reorx.github.io/hugo-PaperModX/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://devxpain-test.github.io/posts/rich-content/</guid>
+      <guid>https://reorx.github.io/hugo-PaperModX/posts/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
 <hr>
@@ -21,7 +21,7 @@
 <p>
   <img loading="lazy" src="https://images.unsplash.com/photo-1662141978148-2eeb2afb3837?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=772&amp;q=80" alt=""  /></p>
 <p>internal image:</p>
-<p><img loading="lazy" src="/images/regular.jpg" type="" alt=""  /></p>
+<p><img loading="lazy" src="/hugo-PaperModX/images/regular.jpg" type="" alt=""  /></p>
 <h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode</h2>
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

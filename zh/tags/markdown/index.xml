@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Markdown on PaperModX</title>
-    <link>https://devxpain-test.github.io/zh/tags/markdown/</link>
+    <link>https://reorx.github.io/hugo-PaperModX/zh/tags/markdown/</link>
     <description>Recent content in Markdown on PaperModX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://devxpain-test.github.io/zh/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://reorx.github.io/hugo-PaperModX/zh/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown 入门指南</title>
-      <link>https://devxpain-test.github.io/zh/posts/markdown-syntax/</link>
+      <link>https://reorx.github.io/hugo-PaperModX/zh/posts/markdown-syntax/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://devxpain-test.github.io/zh/posts/markdown-syntax/</guid>
+      <guid>https://reorx.github.io/hugo-PaperModX/zh/posts/markdown-syntax/</guid>
       <description>Markdown 概述、工作原理以及用途。</description>
       <content:encoded><![CDATA[<h1 id="markdown-入门">Markdown 入门</h1>
 <blockquote>
@@ -56,8 +56,8 @@ Markdown 来书写呢？事实证明，人们使用 Markdown 而不是 WYSIWYG
 <ul>
 <li>
 <p>Markdown 处处可用。人们使用它来创建
-<a href="/zh/posts/markdown-syntax/#websites">网站</a>、<a href="/zh/posts/markdown-syntax/#documents">文档</a>、<a href="/zh/posts/markdown-syntax/#notes">便签</a>、<a href="/zh/posts/markdown-syntax/#books">书籍</a>、<a href="/zh/posts/markdown-syntax/#presentations">演示文稿</a>、<a href="/zh/posts/markdown-syntax/#email">邮件</a>
-和 <a href="/zh/posts/markdown-syntax/#documentation">技术文档</a>。</p>
+<a href="/hugo-PaperModX/zh/posts/markdown-syntax/#websites">网站</a>、<a href="/hugo-PaperModX/zh/posts/markdown-syntax/#documents">文档</a>、<a href="/hugo-PaperModX/zh/posts/markdown-syntax/#notes">便签</a>、<a href="/hugo-PaperModX/zh/posts/markdown-syntax/#books">书籍</a>、<a href="/hugo-PaperModX/zh/posts/markdown-syntax/#presentations">演示文稿</a>、<a href="/hugo-PaperModX/zh/posts/markdown-syntax/#email">邮件</a>
+和 <a href="/hugo-PaperModX/zh/posts/markdown-syntax/#documentation">技术文档</a>。</p>
 </li>
 <li>
 <p>Markdown 是可移植的。几乎可以使用任何应用程序打开包含 Markdown
