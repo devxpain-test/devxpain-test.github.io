@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PaperModX</title>
-    <link>https://reorx.github.io/</link>
+    <link>https://devxpain-test.github.io/</link>
     <description>Recent content on PaperModX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://reorx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://devxpain-test.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperModX New Features</title>
-      <link>https://reorx.github.io/docs/papermodx-new-features/</link>
+      <link>https://devxpain-test.github.io/docs/papermodx-new-features/</link>
       <pubDate>Tue, 12 Apr 2022 23:37:00 +0800</pubDate>
       
-      <guid>https://reorx.github.io/docs/papermodx-new-features/</guid>
+      <guid>https://devxpain-test.github.io/docs/papermodx-new-features/</guid>
       <description>This page explains the new features and changes of PaperModX comparing to the original PaperMod.</description>
       <content:encoded><![CDATA[<p>This page explains the new features and changes of PaperModX
 comparing to the original PaperMod.</p>
@@ -99,20 +99,20 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
     
     <item>
       <title>Icons Preview</title>
-      <link>https://reorx.github.io/docs/icons_preview/</link>
+      <link>https://devxpain-test.github.io/docs/icons_preview/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/docs/icons_preview/</guid>
+      <guid>https://devxpain-test.github.io/docs/icons_preview/</guid>
       <description>Index of all icons in PaperModeX</description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>https://reorx.github.io/docs/icons/</link>
+      <link>https://devxpain-test.github.io/docs/icons/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/docs/icons/</guid>
+      <guid>https://devxpain-test.github.io/docs/icons/</guid>
       <description>Explain how to use icons in PaperModX</description>
       <content:encoded><![CDATA[<h2 id="social-icons">Social Icons</h2>
 <p>Go to <a href="/docs/icons_preview/">Icons Preview</a> to see a complete list of icons</p>
@@ -166,10 +166,10 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
     
     <item>
       <title>Installation | Update</title>
-      <link>https://reorx.github.io/docs/installation/</link>
+      <link>https://devxpain-test.github.io/docs/installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/docs/installation/</guid>
+      <guid>https://devxpain-test.github.io/docs/installation/</guid>
       <description>Read Install and Update instructions here</description>
       <content:encoded><![CDATA[<h2 id="intro">Intro</h2>
 <ul>
@@ -438,10 +438,10 @@ to show all the icons, check it out at: <a href="https://reorx.github.io/hugo-Pa
     
     <item>
       <title>PaperMod Features</title>
-      <link>https://reorx.github.io/docs/features/</link>
+      <link>https://devxpain-test.github.io/docs/features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/docs/features/</guid>
+      <guid>https://devxpain-test.github.io/docs/features/</guid>
       <description>Learn About All Features in original PaperMod</description>
       <content:encoded><![CDATA[<blockquote>
 <p>source: <a href="https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/">https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/</a></p>
@@ -824,10 +824,10 @@ videos.
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://reorx.github.io/posts/markdown-syntax/</link>
+      <link>https://devxpain-test.github.io/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/posts/markdown-syntax/</guid>
+      <guid>https://devxpain-test.github.io/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">Headings</h2>
@@ -1010,10 +1010,10 @@ This is pre text
     
     <item>
       <title>Rich Content</title>
-      <link>https://reorx.github.io/posts/rich-content/</link>
+      <link>https://devxpain-test.github.io/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/posts/rich-content/</guid>
+      <guid>https://devxpain-test.github.io/posts/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
 <hr>
@@ -1074,10 +1074,10 @@ This is pre text
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://reorx.github.io/posts/placeholder-text/</link>
+      <link>https://devxpain-test.github.io/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/posts/placeholder-text/</guid>
+      <guid>https://devxpain-test.github.io/posts/placeholder-text/</guid>
       <description>Lorem Ipsum Dolor Si Amet</description>
       <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
 <p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
@@ -1111,10 +1111,10 @@ This is pre text
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://reorx.github.io/docs/math-typesetting/</link>
+      <link>https://devxpain-test.github.io/docs/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/docs/math-typesetting/</guid>
+      <guid>https://devxpain-test.github.io/docs/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
       <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
 <p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
@@ -1156,10 +1156,10 @@ $$</p>]]></content:encoded>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://reorx.github.io/docs/emoji-support/</link>
+      <link>https://devxpain-test.github.io/docs/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/docs/emoji-support/</guid>
+      <guid>https://devxpain-test.github.io/docs/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>

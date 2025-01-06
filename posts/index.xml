@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on PaperModX</title>
-    <link>https://reorx.github.io/posts/</link>
+    <link>https://devxpain-test.github.io/posts/</link>
     <description>Recent content in Posts on PaperModX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://reorx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://devxpain-test.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://reorx.github.io/posts/markdown-syntax/</link>
+      <link>https://devxpain-test.github.io/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/posts/markdown-syntax/</guid>
+      <guid>https://devxpain-test.github.io/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
 <h2 id="headings">Headings</h2>
@@ -195,10 +195,10 @@ This is pre text
     
     <item>
       <title>Rich Content</title>
-      <link>https://reorx.github.io/posts/rich-content/</link>
+      <link>https://devxpain-test.github.io/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/posts/rich-content/</guid>
+      <guid>https://devxpain-test.github.io/posts/rich-content/</guid>
       <description>A brief description of Hugo Shortcodes</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
 <hr>
@@ -259,10 +259,10 @@ This is pre text
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://reorx.github.io/posts/placeholder-text/</link>
+      <link>https://devxpain-test.github.io/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://reorx.github.io/posts/placeholder-text/</guid>
+      <guid>https://devxpain-test.github.io/posts/placeholder-text/</guid>
       <description>Lorem Ipsum Dolor Si Amet</description>
       <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
 <p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
