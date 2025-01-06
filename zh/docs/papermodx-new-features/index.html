@@ -328,7 +328,7 @@ function toggleThemeListener() {
 <h2 id="table-of-contents-toc-floating-on-the-side">Table of Contents (ToC) floating on the side</h2>
 <p>By adding config:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nt">params</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">TocSide</span><span class="p">:</span><span class="w"> </span><span class="s1">&#39;left&#39;</span><span class="w">  </span><span class="c"># or &#39;right&#39;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">TocSide</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;left&#34;</span><span class="w"> </span><span class="c"># or &#39;right&#39;</span><span class="w">
 </span></span></span></code></pre></div><p>ToC will float on the left/right side of the page.
 You can take a look at how <code>'right'</code> feels like in <a href="https://reorx.github.io/hugo-PaperModX/docs/installation/">Installation | Update</a>.</p>
 <p>The ToC box is responsive, it only shows on the side when minimum screen size is 1440px.</p>
@@ -363,9 +363,9 @@ by override the following css variables in <code>assets/css/extended/custom.css<
 </span></span></code></pre></div><h2 id="customize-pagniator-size">Customize pagniator size</h2>
 <p>In section pages, if you want the paginator size be different from the
 <a href="https://gohugo.io/templates/pagination/#configure-pagination">global config</a>,
-you can add <code>paginate</code> in the frontmatter to customize.</p>
+you can add <code>pagination.pagerSize</code> in the frontmatter to customize.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">paginate</span><span class="p">:</span><span class="w"> </span><span class="m">10</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">pagination.pagerSize</span><span class="p">:</span><span class="w"> </span><span class="m">10</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nn">---</span><span class="w">
 </span></span></span></code></pre></div><h2 id="menus-external-link">Menus external link</h2>
 <p>You can add <code>external: true</code> to a menu item&rsquo;s params to mark it as an external link,
